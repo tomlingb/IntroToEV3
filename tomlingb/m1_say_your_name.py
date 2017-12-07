@@ -19,4 +19,6 @@ Authors: Dave Fisher and Geoffrey Tomlinson.
 
 import ev3dev.ev3 as ev3
 
-ev3.Sound.speak('Geoffrey Tomlinson can write E V 3 ')
+print('Hello')
+
+ev3.Sound.speak('Geoffrey Tomlinson can write E V 3 programs')
